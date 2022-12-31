@@ -1,0 +1,3 @@
+pycryptodome
+win32api
+discord
